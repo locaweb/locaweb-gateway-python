@@ -33,7 +33,7 @@
          "numero": "23",
          "cep": "09710240",
          "bairro": "Centro",
-         "cidade": "São Paulo",
+         "cidade": u"São Paulo",
          "estado": "SP"
        }
     })
