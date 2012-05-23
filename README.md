@@ -39,7 +39,7 @@ transacao = LocawebGateway.criar({
      "descricao": "Carrinho de Compras"
    },
    "pagamento": {
-     "meio_pagamento": "boleto_itau",
+     "meio_pagamento": "cielo",
      "bandeira": "visa",
      "cartao_numero": "4012001037141112",
      "cartao_cvv": "973",
@@ -54,7 +54,7 @@ transacao = LocawebGateway.criar({
      "numero": "23",
      "cep": "09710240",
      "bairro": "Centro",
-     "cidade": u"São Paulo",
+     "cidade": "São Paulo",
      "estado": "SP"
    }
 })
